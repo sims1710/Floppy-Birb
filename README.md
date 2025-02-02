@@ -1,5 +1,7 @@
 # Floppy Birb
 
+![image](https://github.com/user-attachments/assets/7fe8b8c2-aa4f-4ce8-8cb4-21e0885960f4)
+
 Floppy Birb is a simple 2D game inspired by Flappy Bird, built using Unity. The game challenges players to navigate a small bird through a series of pipes by tapping the spacebar to flap its wings.
 
 ## 🎮 Gameplay
@@ -18,7 +20,7 @@ Since only the **Assets/** folder and the **current_version.exe** have been uplo
 > 🔹 The Unity project files (such as `ProjectSettings/`, `Packages/`, and `Library/`) are not included. If you want to modify the game in Unity, you'll need to create a new Unity project and import the assets manually.
 
 ## 🔧 Running the Game
-1. **Download** `current_version.exe` from this repository.
+1. **Download** `Floppy Birb.exe` from this repository.
 2. **Run** the executable to play the game (Windows only).
 
 ## 📝 To-Do List
