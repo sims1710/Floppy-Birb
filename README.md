@@ -39,7 +39,7 @@ Since only the **Assets/** folder and the **current_version.exe** have been uplo
 This project is for educational purposes. Feel free to modify and expand upon it.
 
 ## Credits
-Assets sourced from [[GMTK's Dropbox](https://www.dropbox.com/scl/fo/h8k4jhq564idb46j31czk/AHeDl5TZW6pZi6ZmSCXiaaM?dl=0&e=3&rlkey=hn50slzeizx0602xxduvzw8kc)].
+Assets sourced from [GMTK's Dropbox](https://www.dropbox.com/scl/fo/h8k4jhq564idb46j31czk/AHeDl5TZW6pZi6ZmSCXiaaM?dl=0&e=3&rlkey=hn50slzeizx0602xxduvzw8kc).
 
 ---
 
